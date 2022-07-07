@@ -1,0 +1,1 @@
+netstat -anp |grep :9999 |wc -l | uniq
