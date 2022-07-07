@@ -4,3 +4,6 @@ layer7 mirai private layer4 ovh bypass nfo bypass
 
 
 my tg: @lion001am
+
+leaked cuz @zxcr9999 scam
+@KingOfZero kid using and selling this leaked sources
