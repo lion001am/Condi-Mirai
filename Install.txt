@@ -23,7 +23,7 @@ cd ~/
 
 mkdir /etc/xcompile
 cd /etc/xcompile
-
+DOWNLOAD HERE CROSS COMPILER https://mega.nz/folder/B6AGhDRI#WXd5CxQKliLIfH0M4pV8tg
 DRAG ALL FILE IN FOLDER cross-compiler to /etc/xcompile
 
 tar -xf arc_gnu_2017.09_prebuilt_uclibc_le_arc700_linux_install.tar.gz
